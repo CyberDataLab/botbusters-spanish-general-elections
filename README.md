@@ -2,6 +2,20 @@
 
 This is the official repository for the Botbusters analysis of the 2019 Spanish General Election. 
 
+To cite this code repository, please use the following BibTeX and the DOI `10.5281/zenodo.3625715`.
+```
+@misc{Botbusters10N, 
+  title     = {Botbusters - Analysis of the 2019 Spanish General Election},
+  author    = {Pastor-Galindo, J. and Zago, M. and Nespoli, P. and {Lopez~Bernal}, S. and {Huertas~Celdrán}, A. and {Gil~Pérez}, M. and Ruipérez-Valiente, J. A. and {Martínez~Pérez}, G. and {Gómez~Mármol}, F.}, 
+  year      = {2020}, 
+  month     = {Mar}, 
+  version   = {DOI},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.3733195},
+  url       = {https://github.com/CyberDataLab/botbusters-spanish-general-elections}
+} 
+```
+
 ## Authors
 - Javier Pastor-Galindo (javierpg [at] um [dot] es) <sup>M</sup>
 - Mattia Zago (mattia.zago [at] um [dot] es) <sup>M</sup>
