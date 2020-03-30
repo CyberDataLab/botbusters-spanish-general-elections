@@ -2,7 +2,7 @@
 
 This is the official repository for the Botbusters analysis of the 2019 Spanish General Election. 
 
-To cite this code repository, please use the following BibTeX and the DOI `10.5281/zenodo.3625715`.
+To cite this code repository, please use the following BibTeX and the DOI `10.5281/zenodo.3733195`.
 ```
 @misc{Botbusters10N, 
   title     = {Botbusters - Analysis of the 2019 Spanish General Election},
