@@ -9,7 +9,7 @@ This is the official repository for the Botbusters analysis of the 2019 Spanish 
 - Sergio López Bernal (slopez [at] um [dot] es) <sup>M</sup>
 - Alberto Huertas Celdrán (ahuertas [at] tssg [dot] org) <sup>W</sup>
 - Manuel Gil Pérez (mgilperez [at] um [dot] es) <sup>M</sup>
-- Josìe A. Ruipérez-Valiente (jruiperez [at] um [dot] es) <sup>M</sup>
+- José A. Ruipérez-Valiente (jruiperez [at] um [dot] es) <sup>M</sup>
 - Gregorio Martínez Pérez (gregorio [at] um [dot] es) <sup>M</sup>
 - Félix Gómez Mármol (felixgm [at] um [dot] es) <sup>M</sup>
 
