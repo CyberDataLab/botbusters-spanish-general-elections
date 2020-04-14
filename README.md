@@ -2,7 +2,11 @@
 
 This is the official repository for the Botbusters analysis of the 2019 Spanish General Election. 
 
-To cite this code repository, please use the following BibTeX and the DOI `10.5281/zenodo.3733195`.
+[![Preprint](https://webs.um.es/mattia.zago/images/BB10N-Badge-ArXiV.svg)](https://arxiv.org/abs/2004.00931)
+[![Dataset](https://webs.um.es/mattia.zago/images/BB10N-Badge-Data.svg)](http://dx.doi.org/10.21227/30ca-eg80)
+[![Code](https://webs.um.es/mattia.zago/images/BB10N-Badge-Code.svg)](https://doi.org/10.5281/zenodo.3733195)
+
+To cite this code repository, please use the following BibTeX. 
 ```
 @misc{Botbusters10N, 
   title     = {Botbusters - Analysis of the 2019 Spanish General Election},
@@ -16,7 +20,9 @@ To cite this code repository, please use the following BibTeX and the DOI `10.52
 } 
 ```
 
-The main article with the analysis of the data has been submitted for peer review. A preprint copy is available on arXiv with the code `arXiv:2004.00931` [2].
+The main article with the analysis of the data has been submitted for peer review. A preprint copy is available on arXiv [2]. 
+
+The associated dataset has been published on IEEE Dataport [3]. 
 
 ## Authors
 - Javier Pastor-Galindo (javierpg [at] um [dot] es) <sup>M</sup>
@@ -43,3 +49,4 @@ T.B.A.
 ## Bibliography
 1. Zago, M., Nespoli, P., Papamartzivanos, D., Gil Pérez, M., Gómez Mármol, F., Kambourakis, G. and Martínez Pérez, G., 2019. **Screening Out Social Bots Interference: Are There Any Silver Bullets?**. _IEEE Communications Magazine_, 57(8), pp.98-104. DOI: [10.1109/MCOM.2019.1800520](https://doi.org/10.1109/MCOM.2019.1800520)
 2. Pastor-Galindo, J., Zago, M., Nespoli, P., López Bernal, S., Huertas Celdrán, A., Gil Pérez, M., and Ruipérez-Valiente, J. A., Martínez Pérez, G., Gómez Mármol, F., 2020. **Spotting political social bots in Twitter: A use case of the 2019 Spanish general election**. _arXiv preprint arXiv:2004.00931_
+3. Pastor-Galindo, J., Zago, M., Nespoli, P., López Bernal, S., Huertas Celdrán, A., Gil Pérez, M., and Ruipérez-Valiente, J. A., Martínez Pérez, G., Gómez Mármol, F., 2020. **Spotting political social bots in Twitter: a dataset for the 2019 Spanish general election**. _IEEE Dataport_. DOI: [10.21227/30ca-eg80](https://doi.org/10.21227/30ca-eg80)
