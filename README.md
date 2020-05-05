@@ -6,9 +6,21 @@ This is the official repository for the Botbusters analysis of the 2019 Spanish 
 [![Dataset](https://webs.um.es/mattia.zago/images/BB10N-Badge-Data.svg)](http://dx.doi.org/10.21227/30ca-eg80)
 [![Code](https://webs.um.es/mattia.zago/images/BB10N-Badge-Code.svg)](https://doi.org/10.5281/zenodo.3733195)
 
-To cite this code repository, please use the following BibTeX. 
+To cite this research, please use the following BibTeX as preferred source.
 ```
 @misc{Botbusters10N, 
+  title     = {Spotting political social bots in Twitter: A use case of the 2019 Spanish general election},
+  author    = {Pastor-Galindo, J. and Zago, M. and Nespoli, P. and {Lopez~Bernal}, S. and {Huertas~Celdrán}, A. and {Gil~Pérez}, M. and Ruipérez-Valiente, J. A. and {Martínez~Pérez}, G. and {Gómez~Mármol}, F.}, 
+  year      = {2020}, 
+  eprint    = {2004.00931},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.SI}
+} 
+```
+
+To cite only this code repository, please use the following BibTeX. 
+```
+@misc{Botbusters10NGithub, 
   title     = {Botbusters - Analysis of the 2019 Spanish General Election},
   author    = {Pastor-Galindo, J. and Zago, M. and Nespoli, P. and {Lopez~Bernal}, S. and {Huertas~Celdrán}, A. and {Gil~Pérez}, M. and Ruipérez-Valiente, J. A. and {Martínez~Pérez}, G. and {Gómez~Mármol}, F.}, 
   year      = {2020}, 
