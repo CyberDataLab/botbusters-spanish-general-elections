@@ -46,3 +46,37 @@ A total of 46 hashtags have been used to query the Twitter APIs.
 | AbascalEH  | `#SantiagoAbascalEH`       || Debate       | `#UltimaOportunidadL6`     |
 | AbascalEH  | `#elhormigueroabascal`     || AbascalEH    | `#BoicotElHormiguero`      |
 
+### Bag of words
+
+Here follows the complete list of keyword used to create the bag of words. Since the data have been anonymized, we are not including the list of usernames of verified political accounts. The code to generate the complete list is available on [Phase 2 Notebook (Verified political party regex definitions)](../notebooks/Phase2.ipynb#Verified-political-party-regex-definitions).
+
+| Group      | Keyword                 || Group        | Keyword                     |
+| :---       | :---:                   | --- | :---    | :---:                       |
+| VOX        | `VOX`                   || PP           | `PartidoPopular`            |
+| VOX        | `EspañaSiempre`         || PP           | `Partido Popular`           |
+| VOX        | `Abascal`               || PP           | `PP`                        |
+| VOX        | `Santiago Abascal`      || PP           | `PorTodoLoQueNosUne`        |
+| VOX        | `Santi Abascal`         || PP           | `Pablo Casado`              |
+| Ciudadanos | `Ciudadanos`            || PSOE         | `AhoraSì`                   |
+| Ciudadanos | `\#Cs`                  || PSOE         | `AhoraEspaña`               |
+| Ciudadanos | `EspañaEnMarcha`        || PSOE         | `PSOE`                      |
+| Ciudadanos | `Albert Rivera`         || PSOE         | `PSOEcompraVotos`           |
+| Ciudadanos | `Rivera`                || PSOE         | `Pedro Sánchez`             |
+| UP         | `UnidasPodemos`         || Elections    | `10N`                       |
+| UP         | `Unidas Podemos`        || Elections    | `10NElecciones`             |
+| UP         | `ElPoderDeLaGente`      || Elections    | `10Noviembre`               |
+| UP         | `MamadasPodemos`        || Elections    | `Elecciones10N`             |
+| UP         | `SePuede`               || Elections    | `eleccionesgenerales10N`    |
+| UP         | `UnGobiernoContigo`     || Elections    | `EleccionesNoviembre2019`   |
+| UP         | `Pablo Iglesias`        || Exhumation   | `exhumacionFranco`          |
+| Catalonia  | `116YA`                 || Exhumation   | `francisfrancoesp`          |
+| Catalonia  | `disturbiosBarcelona`   || Exhumation   | `FrancoCalientaQueSales`    |
+| Catalonia  | `EstadoDeExcepcion`     || Exhumation   | `unboxingfranco`            |
+| Catalonia  | `MarlaskaDimisionYa`    || Debate       | `Debate10N`                 |
+| Catalonia  | `SpainIsAFascistState`  || Debate       | `DebateA5`                  |
+| Catalonia  | `ThisIsTheRealSpain`    || Debate       | `Debatea7RTVE`              |
+| Catalonia  | `tsunamidemocractic`    || Debate       | `DebateElectoral`           |
+| Catalonia  | `tsunamiinfiltrado`     || Debate       | `DebatePresidencial`        |
+| AbascalEH  | `SantiagoAbascalEH`     || Debate       | `ElDebate4N`                |
+| AbascalEH  | `elhormigueroabascal`   || Debate       | `ElDebateEnRTVE`            |
+| AbascalEH  | `BoicotElHormiguero`    || Debate       | `UltimaOportunidadL6`       |
