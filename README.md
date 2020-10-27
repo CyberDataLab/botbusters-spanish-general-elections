@@ -34,7 +34,7 @@ To cite only this code repository, please use the following BibTeX.
 } 
 ```
 
-The main article with the analysis of the data has been published in IEEE Transactions on Network and Service Management [1]. A preprint copy is available on [arXiv](arxiv.org/abs/2004.00931).
+The main article with the analysis of the data has been published in IEEE Transactions on Network and Service Management [1]. A preprint copy is available on [arXiv](https://arxiv.org/abs/2004.00931).
 
 The associated dataset has been published on IEEE Dataport [2] and in-depth described in a Data Descriptor article published in Data in Brief [3].
 
