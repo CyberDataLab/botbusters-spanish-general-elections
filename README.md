@@ -10,12 +10,13 @@ This is the official repository for the Botbusters analysis of the 2019 Spanish 
 To cite this research, please use the following BibTeX as preferred source.
 ```
 @article{Botbusters10N, 
-  title     = {Spotting political social bots in Twitter: A use case of the 2019 Spanish general election},
+  title     = {Spotting Political Social Bots in Twitter: A Use Case of the 2019 Spanish General Election},
+  journal   = {IEEE Transactions on Network and Service Management}, 
   author    = {Pastor-Galindo, J. and Zago, M. and Nespoli, P. and {Lopez~Bernal}, S. and {Huertas~Celdrán}, A. and {Gil~Pérez}, M. and Ruipérez-Valiente, J. A. and {Martínez~Pérez}, G. and {Gómez~Mármol}, F.}, 
   year      = {2020}, 
-  volume={},
-  number={},
-  pages={1-1},
+  volume    = {17},
+  number    = {4},
+  pages     = {2156-2170},
   doi={10.1109/TNSM.2020.3031573}
   }
 ```
